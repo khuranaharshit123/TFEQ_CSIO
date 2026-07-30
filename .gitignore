@@ -1,0 +1,16 @@
+# Virtual environment
+venv/
+.venv/
+env/
+
+# Large datasets & raw files
+bson_file/
+data_4/
+*.bson
+*.npy
+
+# Python cache & Jupyter
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
